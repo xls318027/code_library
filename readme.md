@@ -1,1 +1,1 @@
-My code libaray.
+My code library.
